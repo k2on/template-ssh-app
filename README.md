@@ -1,4 +1,4 @@
-# template-ssh-app
+# idx
 
 A garnix-compatible repo for deploying simple ssh apps (that is, apps that
 you interact with via ssh).
